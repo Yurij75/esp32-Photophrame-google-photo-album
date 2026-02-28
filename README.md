@@ -8,6 +8,7 @@
 Після прощивання зайти на сторінку по адресу на дисплеї, вставити посилання га альбом.
 
 ➡️ Прошивати за допомогою arduino ide
+
 ➡️ Необхідні бібліотеки
 ✅https://github.com/Bodmer/TJpg_Decoder.git
 ✅https://github.com/moononournation/Arduino_GFX.git
